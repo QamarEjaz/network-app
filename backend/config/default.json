@@ -1,0 +1,4 @@
+{
+    "mongooseURL":"mongodb+srv://qamar:TgFcSzczLw5sP8Ub@cluster1.tnrvj0w.mongodb.net/network-app?retryWrites=true&w=majority",
+    "jwtsecret":"KBHLGGLUHYUGUYVLYUGBYUG"
+}
